@@ -1,8 +1,14 @@
 # eferciciosPHP2
 
-Ejercicio de Busqueda Binaria
-Número Feliz
-Chequeo de Altura
+aVeryBigSum
+binarySearch
+birthdaCakeCandles
+happyNumber
+heightChequer
+insertionSort
+marsExploration
+mergeSort
+strongPassword
 
 
 Ejercicios de PHP - Carlos David Violante Mancía
